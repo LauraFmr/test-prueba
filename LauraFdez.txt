@@ -2,3 +2,8 @@
 negocio
 tareas
 colegio
+
+3 frameworks:
+React
+Angular
+Vue.js
