@@ -7,3 +7,8 @@ colegio
 React
 Angular
 Vue.js
+
+3 lenguajes:
+Java
+Python
+PHP
